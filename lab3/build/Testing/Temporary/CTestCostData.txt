@@ -1,7 +1,7 @@
-array-case1 17 0.0115614
-array-case2 17 0.00468647
-array-case3 17 0.00562114
-linked-case1 9 0.0152904
-linked-case2 17 0.00543848
-linked-case3 5 0.0044393
+array-case1 19 0.0121588
+array-case2 19 0.00485606
+array-case3 18 0.00573549
+linked-case1 11 0.0143475
+linked-case2 19 0.00534722
+linked-case3 7 0.00474544
 ---

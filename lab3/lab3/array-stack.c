@@ -49,8 +49,6 @@ bool stack_pop(stack_ptr s, char *out) {
         return false;
     }
     *out = s->data[--s->length]; //print the stack item, dereferences which makes it char = char
-    /*s->capacity--; //decrease the overall capacity
-    realloc(s->data, s->capacity*sizeof(char)); //realloc with 1 less element (IDK IF I NEED THIS) */
 
     return true;
 }

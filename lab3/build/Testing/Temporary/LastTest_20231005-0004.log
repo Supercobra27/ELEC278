@@ -1,3 +1,18 @@
-Start testing: Oct 04 21:35 Eastern Daylight Time
+Start testing: Oct 05 11:06 Eastern Daylight Time
 ----------------------------------------------------------
-End testing: Oct 04 21:35 Eastern Daylight Time
+6/6 Testing: linked-case3
+6/6 Test: linked-case3
+Command: "C:/Users/Owner/Desktop/ELEC278/lab3/build/linked-stack.exe" "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/test-cases/case3.txt" "fail"
+Directory: C:/Users/Owner/Desktop/ELEC278/lab3/build
+"linked-case3" start time: Oct 05 11:06 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"linked-case3" end time: Oct 05 11:06 Eastern Daylight Time
+"linked-case3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 05 11:06 Eastern Daylight Time

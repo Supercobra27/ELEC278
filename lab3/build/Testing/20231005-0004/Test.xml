@@ -24,11 +24,39 @@
 	ProcessorClockFrequency="3792"
 	>
 	<Testing>
-		<StartDateTime>Oct 04 21:35 Eastern Daylight Time</StartDateTime>
-		<StartTestTime>1696469719</StartTestTime>
-		<TestList/>
-		<EndDateTime>Oct 04 21:35 Eastern Daylight Time</EndDateTime>
-		<EndTestTime>1696469719</EndTestTime>
+		<StartDateTime>Oct 05 11:06 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1696518384</StartTestTime>
+		<TestList>
+			<Test>./linked-case3</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>linked-case3</Name>
+			<Path>.</Path>
+			<FullName>./linked-case3</FullName>
+			<FullCommandLine>C:\Users\Owner\Desktop\ELEC278\lab3\build\linked-stack.exe "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/test-cases/case3.txt" "fail"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00697</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Owner\Desktop\ELEC278\lab3\build\linked-stack.exe "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/test-cases/case3.txt" "fail"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 05 11:06 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1696518384</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
