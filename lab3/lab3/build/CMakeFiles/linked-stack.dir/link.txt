@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\linked-stack.dir/objects.a
+C:\Users\Owner\Desktop\CCOMPI~1\MINGW6~1.0\mingw64\bin\ar.exe qc CMakeFiles\linked-stack.dir/objects.a @CMakeFiles\linked-stack.dir\objects1.rsp
+C:\Users\Owner\Desktop\CCOMPI~1\MINGW6~1.0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\linked-stack.dir/objects.a -Wl,--no-whole-archive -o linked-stack.exe -Wl,--out-implib,liblinked-stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\linked-stack.dir\linkLibs.rsp

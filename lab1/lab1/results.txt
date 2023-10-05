@@ -1,0 +1,12 @@
+ROUNDS PLAYED: 7
+
+P1: 1 P2: 3
+P1: 2 P2: 0
+P1: 0 P2: 1
+P1: 0 P2: 0
+P1: 3 P2: 3
+P1: 2 P2: 3
+P1: 2 P2: 3
+P1 wins: 1
+P2 wins: 4
+Ties: 2

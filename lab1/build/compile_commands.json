@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Owner/Downloads/lab1/build",
+  "command": "C:\\Users\\Owner\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab1.dir\\rpssim.c.obj -c C:\\Users\\Owner\\Downloads\\lab1\\lab1\\rpssim.c",
+  "file": "C:/Users/Owner/Downloads/lab1/lab1/rpssim.c",
+  "output": "CMakeFiles/lab1.dir/rpssim.c.obj"
+}
+]

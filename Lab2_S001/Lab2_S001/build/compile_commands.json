@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Owner/Downloads/Lab2_S001/Lab2_S001/build",
+  "command": "C:\\Users\\Owner\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\Lab2_S001.dir\\main.c.obj -c C:\\Users\\Owner\\Downloads\\Lab2_S001\\Lab2_S001\\main.c",
+  "file": "C:/Users/Owner/Downloads/Lab2_S001/Lab2_S001/main.c",
+  "output": "CMakeFiles/Lab2_S001.dir/main.c.obj"
+}
+]

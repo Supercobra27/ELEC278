@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\demo-impl.dir\\demo.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab3\\lab3\\demo.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/demo.c",
+  "output": "CMakeFiles/demo-impl.dir/demo.c.obj"
+},
+{
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\demo-impl.dir\\main.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab3\\lab3\\main.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/main.c",
+  "output": "CMakeFiles/demo-impl.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\linked-stack.dir\\linked-stack.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab3\\lab3\\linked-stack.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/linked-stack.c",
+  "output": "CMakeFiles/linked-stack.dir/linked-stack.c.obj"
+},
+{
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\array-stack.dir\\array-stack.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab3\\lab3\\array-stack.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/array-stack.c",
+  "output": "CMakeFiles/array-stack.dir/array-stack.c.obj"
+}
+]

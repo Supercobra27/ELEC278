@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "array-stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array-stack-Debug-7f1a9b7936b2a9aec14e.json",
+					"name" : "array-stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo-impl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo-impl-Debug-5b5f0a2f417bf581f1dc.json",
+					"name" : "demo-impl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linked-stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linked-stack-Debug-6a005027fde5b7519695.json",
+					"name" : "linked-stack",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Owner/Desktop/ELEC278/lab3/lab3/build",
+		"source" : "C:/Users/Owner/Desktop/ELEC278/lab3/lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

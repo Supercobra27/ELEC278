@@ -1,0 +1,6 @@
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/linked-stack.dir
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/array-stack.dir
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/demo-impl.dir
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/test.dir
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Desktop/ELEC278/lab3/build/CMakeFiles/rebuild_cache.dir
