@@ -16,20 +16,36 @@ bool run_statements(struct context *ctx, const char **input, struct error *err) 
 bool run_statement(struct context *ctx, const char **input, struct error *err) {
     // TODO: Task 2: implement enqueue, assert, and assignment statements.
     skip_whitespace(input);
-    char *exp = strtok(input,"()");
-    char *eval = strtok(*exp, " ");
+    //char *exp = strtok(input,"()");
+    //char *eval = strtok(*exp, " ");
 
-    if(strncmp(*exp,"ENQ",3)==0){
+    if(strncmp(*input,"ENQ",3)==0){
         int value;
-        if(!eval_expression(ctx, eval, err, &value)) return false;
+        if(!eval_expression(ctx, input, err, &value)) return false;
         enqueue(&ctx->q, value);
-    }else if(strncmp(*exp, "ASSERT",6)==0){
+    }else if(strncmp(*input, "ASSERT",6)==0){
         bool cond;
-        if(!eval_expression(ctx, eval, err, &eval)) return false; //wtf is this doing?
+        if(!eval_condition(ctx, input, err, &cond)) return false;
         if(!cond){
             err->pos = *input;
             err->desc = "assert failed";
         }
+    }else if(**input == 'x' || **input == 'y'){
+        char var = **input;
+        *input += 1;
+        if(**input != '='){
+            err->pos = *input;
+            err->desc = "Expected '='";
+        }
+        *input += 1;
+        int value;
+        if(!eval_expression(ctx,input, err, value)){
+            return false;
+        }
+        if(var == 'x') ctx->x = value;
+        if(var == 'y') ctx->y = value;
+        else err->pos = *input; err->desc = "Failed variable";
+        
     }
 
     // TODO: Task 3: implement loops.
