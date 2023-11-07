@@ -1,0 +1,4 @@
+C:/Users/Owner/Downloads/lab4/lab4/build/CMakeFiles/lab4.dir
+C:/Users/Owner/Downloads/lab4/lab4/build/CMakeFiles/test.dir
+C:/Users/Owner/Downloads/lab4/lab4/build/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Downloads/lab4/lab4/build/CMakeFiles/rebuild_cache.dir
