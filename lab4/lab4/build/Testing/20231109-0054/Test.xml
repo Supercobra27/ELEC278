@@ -24,47 +24,11 @@
 	ProcessorClockFrequency="3792"
 	>
 	<Testing>
-		<StartDateTime>Nov 09 11:23 Eastern Standard Time</StartDateTime>
-		<StartTestTime>1699547008</StartTestTime>
-		<TestList>
-			<Test>./case4</Test>
-		</TestList>
-		<Test Status="failed">
-			<Name>case4</Name>
-			<Path>.</Path>
-			<FullName>./case4</FullName>
-			<FullCommandLine>C:\Users\Owner\Desktop\ELEC278\lab4\lab4\build\lab4.exe "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/test-cases/case4.txt"</FullCommandLine>
-			<Results>
-				<NamedMeasurement type="text/string" name="Exit Code">
-					<Value>Exit code 0xc0000409
-</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Exit Value">
-					<Value>3221226505</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.049459</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="numeric/double" name="Processors">
-					<Value>1</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Completion Status">
-					<Value>Completed</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Command Line">
-					<Value>C:\Users\Owner\Desktop\ELEC278\lab4\lab4\build\lab4.exe "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/test-cases/case4.txt"</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Environment">
-					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
-				</NamedMeasurement>
-				<Measurement>
-					<Value>Assertion failed: *input == '\0', file C:\Users\Owner\Desktop\ELEC278\lab4\lab4\main.c, line 62
-</Value>
-				</Measurement>
-			</Results>
-		</Test>
-		<EndDateTime>Nov 09 11:23 Eastern Standard Time</EndDateTime>
-		<EndTestTime>1699547008</EndTestTime>
+		<StartDateTime>Nov 09 17:53 Eastern Standard Time</StartDateTime>
+		<StartTestTime>1699570433</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 09 17:53 Eastern Standard Time</EndDateTime>
+		<EndTestTime>1699570433</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
