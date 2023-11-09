@@ -1,0 +1,18 @@
+Start testing: Nov 07 16:49 Eastern Standard Time
+----------------------------------------------------------
+4/4 Testing: case4
+4/4 Test: case4
+Command: "C:/Users/Owner/Desktop/ELEC278/build/lab4.exe" "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/test-cases/case4.txt"
+Directory: C:/Users/Owner/Desktop/ELEC278/build
+"case4" start time: Nov 07 16:49 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"case4" end time: Nov 07 16:49 Eastern Standard Time
+"case4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 16:49 Eastern Standard Time

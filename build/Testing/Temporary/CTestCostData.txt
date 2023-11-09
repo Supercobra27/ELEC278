@@ -1,0 +1,6 @@
+case1 0 0
+case2 0 0
+case3 0 0
+case4 0 0
+---
+case4

@@ -1,26 +1,26 @@
 [
 {
-  "directory": "C:/Users/Owner/Downloads/lab4/lab4/build",
-  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\main.c.obj -c C:\\Users\\Owner\\Downloads\\lab4\\lab4\\main.c",
-  "file": "C:/Users/Owner/Downloads/lab4/lab4/main.c",
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\main.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab4\\lab4\\main.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/main.c",
   "output": "CMakeFiles/lab4.dir/main.c.obj"
 },
 {
-  "directory": "C:/Users/Owner/Downloads/lab4/lab4/build",
-  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\queue.c.obj -c C:\\Users\\Owner\\Downloads\\lab4\\lab4\\queue.c",
-  "file": "C:/Users/Owner/Downloads/lab4/lab4/queue.c",
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\queue.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab4\\lab4\\queue.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/queue.c",
   "output": "CMakeFiles/lab4.dir/queue.c.obj"
 },
 {
-  "directory": "C:/Users/Owner/Downloads/lab4/lab4/build",
-  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\engine.c.obj -c C:\\Users\\Owner\\Downloads\\lab4\\lab4\\engine.c",
-  "file": "C:/Users/Owner/Downloads/lab4/lab4/engine.c",
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\engine.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab4\\lab4\\engine.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/engine.c",
   "output": "CMakeFiles/lab4.dir/engine.c.obj"
 },
 {
-  "directory": "C:/Users/Owner/Downloads/lab4/lab4/build",
-  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\util.c.obj -c C:\\Users\\Owner\\Downloads\\lab4\\lab4\\util.c",
-  "file": "C:/Users/Owner/Downloads/lab4/lab4/util.c",
+  "directory": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/build",
+  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab4.dir\\util.c.obj -c C:\\Users\\Owner\\Desktop\\ELEC278\\lab4\\lab4\\util.c",
+  "file": "C:/Users/Owner/Desktop/ELEC278/lab4/lab4/util.c",
   "output": "CMakeFiles/lab4.dir/util.c.obj"
 }
 ]
