@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Owner/Downloads/lab5/build",
-  "command": "C:\\Users\\Owner\\Desktop\\CCOMPI~1\\MINGW6~1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\lab5.dir\\main.c.obj -c C:\\Users\\Owner\\Downloads\\lab5\\lab5\\main.c",
-  "file": "C:/Users/Owner/Downloads/lab5/lab5/main.c",
-  "output": "CMakeFiles/lab5.dir/main.c.obj"
-}
-]
