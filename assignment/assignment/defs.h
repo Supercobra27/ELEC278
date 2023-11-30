@@ -29,4 +29,12 @@ typedef enum {
     COL_G,
 } COL;
 
+typedef enum{
+    TEXT,
+    NUMBER,
+    FORMULA,
+    ERROR,
+    DNE
+}DATATYPE;
+
 #endif //ASSIGNMENT_DEFS_H

@@ -1,5 +1,22 @@
 {
     "files.associations": {
-        "type_traits": "c"
-    }
+        "type_traits": "c",
+        "model.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "interface.h": "c"
+    },
+        "todohighlight.isEnable": true,
+        "todohighlight.isCaseSensitive": true,
+        "todohighlight.keywords": [
+            "DEBUG:",
+            "REVIEW:",
+            "WIP:",
+            "IMPROVE:",
+            {
+                "text": "NOTE:",
+                "color": "#ff0000",
+                "backgroundColor": "green",
+                "overviewRulerColor": "grey"
+            }]
 }
