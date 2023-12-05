@@ -8,6 +8,7 @@
 #include <string.h>
 
 #define DEFAULT_EDIT_SIZE 128
+#define CELL_EDIT_WIDTH 1000
 
 // Current cur_row and column.
 static ROW cur_row = ROW_1;
@@ -128,7 +129,18 @@ int main() {
 
     // Initialize data structure.
     model_init();
+    /*set_cell_value(ROW_1, COL_A, strdup("1"));
+        char formula[CELL_EDIT_WIDTH + 1] = "=0", prev_cell[5] = "+A1";
+    for (int i = 1; i < 20; i++)
+    {
+        ROW r = i / NUM_COLS, prev_r = (i - 1) / NUM_COLS;
+        COL c = i % NUM_COLS, prev_c = (i - 1) % NUM_COLS;
+        prev_cell[1] = prev_c + 'A';
+        snprintf(prev_cell + 2, 3, "%d", prev_r + 1); // +1 since row=0 is row_1.
 
+        strcat(formula, prev_cell);
+        set_cell_value(r, c, strdup(formula));
+    }*/
     // String of blanks used by main loop.
     char blanks[total_width + 1];
     for (size_t i = 0; i < total_width; i++)
